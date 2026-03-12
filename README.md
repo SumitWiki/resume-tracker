@@ -20,7 +20,7 @@ Next.js • MongoDB • Tailwind CSS • TypeScript • LaTeX • GitHub Actions
 1. **Clone & Install:**
 
    ```bash
-   git clone https://github.com/decodewithdeepak/resume-tracker.git
+   git clone https://github.com/SumitWiki/resume-tracker.git
    cd resume-tracker
    npm install
    ```
@@ -47,9 +47,9 @@ Next.js • MongoDB • Tailwind CSS • TypeScript • LaTeX • GitHub Actions
 
 ## Usage
 
-- **Resume:** `https://resume.deepakmodi.tech/`
-- **Track Sources:** `https://resume.deepakmodi.tech/?gh-repo`
-- **Analytics:** `https://resume.deepakmodi.tech/visits` (requires password)
+- **Resume:** `https://sumitjha.me/`
+- **Track Sources:** `https://sumitjha.me/?gh-repo`
+- **Analytics:** `https://sumitjha.me/visits` (requires password)
 
 ---
 
